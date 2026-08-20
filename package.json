@@ -1,6 +1,6 @@
 {
   "name": "eth-crypto",
-  "version": "2.8.0",
+  "version": "2.8.0-lineaje-01",
   "description": "Cryptographic functions for ethereum and how to use them with web3 and solidity",
   "keywords": [
     "ethereum",
@@ -40,11 +40,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pubkey/eth-crypto.git"
+    "url": "https://github.com/lineaje-labs-gos/pubkey-eth-crypto"
   },
   "author": "pubkey",
   "funding": "https://github.com/sponsors/pubkey",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/pubkey/eth-crypto/issues"
   },
